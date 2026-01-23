@@ -1,5 +1,6 @@
 ﻿# localsmb
 涓€閿畇mb
+
 ---
 
 ## 支持作者 / 打赏
@@ -10,7 +11,7 @@
 
 ### USDT (TRC20)
 
-- 地址：TNp2BLnqrsgGPjrABQwvTq6cWyT8iRKk3D
+- 地址：`TNp2BLnqrsgGPjrABQwvTq6cWyT8iRKk3D`
 - 网络：TRC20
 
 ![USDT TRC20 QR](usdt_trc20_qr.jpg)
@@ -23,9 +24,7 @@ If this project helps you, consider supporting the author (optional).
 
 ### USDT (TRC20)
 
-- Address: TNp2BLnqrsgGPjrABQwvTq6cWyT8iRKk3D
+- Address: `TNp2BLnqrsgGPjrABQwvTq6cWyT8iRKk3D`
 - Network: TRC20
 
 ![USDT TRC20 QR](usdt_trc20_qr.jpg)
-
-
